@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\ASP.NETCore-DbContext-Setup.props" />
+</Project>
