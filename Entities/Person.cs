@@ -21,5 +21,11 @@ namespace Entities
 		//uniqueidentifier
 		public Guid? CountryID { get; set; }
 
+		[StringLength(100)]
+		public string? Address { get; set; }
+
+		//bit
+		public bool ReceiveNewsLetters { get; set; }
+
 	}
 }

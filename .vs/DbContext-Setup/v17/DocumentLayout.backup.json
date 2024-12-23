@@ -1,22 +1,26 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\",
+  "WorkspaceRootPath": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B044DC77-0B5C-4A47-930C-33A890E28C49}|Entities\\Entities.csproj|c:\\users\\acer\\source\\repos\\dbcontext-setup\\entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B044DC77-0B5C-4A47-930C-33A890E28C49}|Entities\\Entities.csproj|solutionrelative:entities\\personsdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Documents\\DbContext-Setup\\ASP.NETCore-DbContext-Setup\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASP.NETCore-DbContext-Setup\\Program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B044DC77-0B5C-4A47-930C-33A890E28C49}|Entities\\Entities.csproj|c:\\users\\acer\\source\\repos\\dbcontext-setup\\entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B044DC77-0B5C-4A47-930C-33A890E28C49}|Entities\\Entities.csproj|solutionrelative:entities\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Documents\\DbContext-Setup\\ASP.NETCore-DbContext-Setup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:ASP.NETCore-DbContext-Setup\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B044DC77-0B5C-4A47-930C-33A890E28C49}|Entities\\Entities.csproj|c:\\users\\acer\\source\\repos\\dbcontext-setup\\entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B044DC77-0B5C-4A47-930C-33A890E28C49}|Entities\\Entities.csproj|solutionrelative:entities\\country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\PersonsDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\PersonsDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{98A574E3-B269-44F0-9448-0F1E5D86A7FD}|ASP.NETCore-DbContext-Setup\\ASP.NETCore-DbContext-Setup.csproj|c:\\users\\acer\\source\\repos\\dbcontext-setup\\asp.netcore-dbcontext-setup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{98A574E3-B269-44F0-9448-0F1E5D86A7FD}|ASP.NETCore-DbContext-Setup\\ASP.NETCore-DbContext-Setup.csproj|solutionrelative:asp.netcore-dbcontext-setup\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Country.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Entities\\Person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,55 +34,66 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\ASP.NETCore-DbContext-Setup\\appsettings.json",
+              "RelativeDocumentMoniker": "ASP.NETCore-DbContext-Setup\\appsettings.json",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\ASP.NETCore-DbContext-Setup\\appsettings.json",
+              "RelativeToolTip": "ASP.NETCore-DbContext-Setup\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAADxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-22T02:52:21.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\ASP.NETCore-DbContext-Setup\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\ASP.NETCore-DbContext-Setup\\Program.cs",
               "RelativeDocumentMoniker": "ASP.NETCore-DbContext-Setup\\Program.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\ASP.NETCore-DbContext-Setup\\Program.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\ASP.NETCore-DbContext-Setup\\Program.cs",
               "RelativeToolTip": "ASP.NETCore-DbContext-Setup\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAdAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T00:50:20.666Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PersonsDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\Entities\\PersonsDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\PersonsDbContext.cs",
               "RelativeDocumentMoniker": "Entities\\PersonsDbContext.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\Entities\\PersonsDbContext.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\PersonsDbContext.cs",
               "RelativeToolTip": "Entities\\PersonsDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAnAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-12-22T01:46:55.473Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Country.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\Entities\\Country.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\Country.cs",
               "RelativeDocumentMoniker": "Entities\\Country.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\Entities\\Country.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\Country.cs",
               "RelativeToolTip": "Entities\\Country.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T01:41:40.403Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T01:41:40.403Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Person.cs",
-              "DocumentMoniker": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\Entities\\Person.cs",
+              "DocumentMoniker": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\Person.cs",
               "RelativeDocumentMoniker": "Entities\\Person.cs",
-              "ToolTip": "C:\\Users\\Acer\\source\\repos\\DbContext-Setup\\Entities\\Person.cs",
+              "ToolTip": "C:\\Users\\Acer\\Documents\\DbContext-Setup\\Entities\\Person.cs",
               "RelativeToolTip": "Entities\\Person.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-12-22T01:40:44.369Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-12-22T01:40:44.369Z"
             }
           ]
         }

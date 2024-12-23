@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ASP.NETCore-DbContext-Setup")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Release")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+155c19c9e7f38f759b1a1d08322fcb32e366ce8a")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+57636250d985bedb87d47b2c3a0fbe14c7c1ee29")]
 [assembly: System.Reflection.AssemblyProductAttribute("ASP.NETCore-DbContext-Setup")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ASP.NETCore-DbContext-Setup")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

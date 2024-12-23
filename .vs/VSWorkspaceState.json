@@ -4,6 +4,6 @@
     "\\ASP.NETCore-DbContext-Setup",
     "\\Entities"
   ],
-  "SelectedNode": "\\ASP.NETCore-DbContext-Setup\\Program.cs",
+  "SelectedNode": "\\Entities\\PersonsDbContext.cs",
   "PreviewInSolutionExplorer": false
 }
